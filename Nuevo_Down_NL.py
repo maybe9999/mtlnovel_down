@@ -43,7 +43,7 @@ def descargar_y_procesar(base_url, archivo_actual, watchdog_event):
                 print("Saved...", capitulos_guardados,"\n\n","-_"*35,"\n")
                 capitulos_guardados += 1
 
-                # Si se han guardado 100 capítulos, cambiar al siguiente archivo
+                # Si se han guardado 100 capítulos en un .txt, cambiar al siguiente .txt (archivo_actual forma parte del nombre del .txt
                 if capitulos_guardados > 100:
                     archivo_actual += 100
                     capitulos_guardados = 0
