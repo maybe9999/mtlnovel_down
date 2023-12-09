@@ -4,3 +4,4 @@ No es perfecto pero es funcional(por el momento), fue echo para uso personal, lo
 
 Se aceptan solo criticas CONSTRUCTIVAS. 
 
+(Aun esta en proceso de desarrollo, no esta terminado)
